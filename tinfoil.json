@@ -1,10 +1,14 @@
 {
     "files": [
         {
-            "url": "https://drive.google.com/uc?export=download&id=15HpLxIcSPa2STSVX5bh7CSWpwY9tWyzA#Fortnite [010025400AECE000][v0].nsp",
-            "size": 5792316
-        }
+            "url": "https://drive.google.com/uc?export=download&id=15HpLxIcSPa2STSVX5bh7CSWpwY9tWyzA#Fortnite Base [010025400AECE000][v0].nsp",
+            "size": 5792315
+        },
+        {
+            "url": "https://drive.google.com/uc?export=download&id=1w0py6BytxDatYycl6rOj9nKbMCPdIHUW#Fortnite 8.51 [010025400AECE800][v3735552].nsp",
+            "size": 5072691648
+        },
     ],
     "directories": [""],
-    "success": "motd text here"
+    "success": "Welcome to the Fortnite Switch NSP Tinfoil Shop /n PLACEHOLDER SECOND LINE"
 }

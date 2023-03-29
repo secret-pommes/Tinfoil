@@ -1,54 +1,54 @@
 {
-    "files": [
-        {
-            "url": "gdrive:15HpLxIcSPa2STSVX5bh7CSWpwY9tWyzA#Fortnite Base [010025400AECE000][v0].nsp",
-            "size": 5792315
-        },
-        {
-            "url": "gdrive:1w0py6BytxDatYycl6rOj9nKbMCPdIHUW#Fortnite 8.51 [UPD][010025400AECE800][v3735552].nsp",
-            "size": 5072691648
-        },
-        {
-            "url": "gdrive:1_ndyS5EK7YzRG4sFxMgW98HUO6IrQNRG#Fortnite 8.50 [UPD][010025400AECE800][v3670016].nsp",
-            "size": 4720000000
-        },
-        {
-            "url": "gdrive:1kMZFIozxHMkpmDBHoXzaaf_A7VNFOo-N#Fortnite 7.10 [UPD][010025400AECE800][v2424832].nsp",
-            "size": 7330000000
-        },
-        {
-            "url": "gdrive:1-zT9FrQ7ObMOIdbLXYADdxuN-QwA58FC#Fortnite 6.31 [UPD][010025400AECE800][v2228224].nsp",
-            "size": 3220000000
-        },
-        {
-            "url": "gdrive:1wpF6teSagv6441WHi_xdWGURRkUf2Xh7#Fortnite 5.40 [UPD][010025400AECE800][v1179648].nsp",
-            "size": 4506157862
-        },
-        {
-            "url": "gdrive:1NykOzSDAgYgRNYamWiGw8u5c1sAVlmSK#Fortnite 5.30.2 [UPD][010025400AECE800][v1114112].nsp",
-            "size": 2660000000
-        },
-        {
-            "url": "gdrive:1h--hhny8pGo8GiYng_59DpcAFSSb0Bp7#Fortnite 5.10 [UPD][010025400AECE800][v589824].nsp",
-            "size": 2250000000
-        },
-        {
-            "url": "gdrive:1asfdwgv4hzgfAda89Bnp9lH3FzUBid2y#Fortnite 4.5 [UPD][010025400AECE800][v327680].nsp",
-            "size": 2610000000
-        },
-        {
-            "url": "gdrive:1S-GAToITnHoqIumKF05nn13og2wbR33k#Fortnite 4.4.2 [UPD][010025400AECE800][v262144].nsp",
-            "size": 2190000000
-        },
-        {
-            "url": "gdrive:1EACOp2rV2eEtPJWiUUP33QHCY8Az3GXY#Fortnite 4.4 [UPD][010025400AECE800][v655360].nsp",
-            "size": 2410000000
-        },
-        {
-            "url": "gdrive:19mSLTRtJiCT3fFGRONDYZAFrIVs5nGOW#Fortnite 9.30 [UPD][010025400AECE800][vIDK].nsp",
-            "size": 2250570000
-        }
-    ],
-    "directories": [""],
-    "success": "Welcome to the Fortnite Switch NSP Tinfoil Shop! \nVersions currently available: \n4.4 – 8.51 \n(most Season 6 – 8 builds are currently missing)"
+  "files": [
+    {
+      "url": "gdrive:15HpLxIcSPa2STSVX5bh7CSWpwY9tWyzA#Fortnite Base (v0) [010025400AECE000][0].nsp",
+      "size": 5792315
+    },
+    {
+      "url": "gdrive:1uuzfbNrsPifsvPEww_pCAW2kMBc503lz#Fortnite v15.30 [UDP][UNKNOW][8388608].nsp",
+      "size": 12387381136
+    },
+    {
+      "url": "gdrive:1D78HJPls37VTusqGcWg0maUgxxMABBHY#Fortnite v10.30 [US][010025400AECE800][4718592].nsp",
+      "size": 7044939776
+    },
+    {
+      "url": "gdrive:19mSLTRtJiCT3fFGRONDYZAFrIVs5nGOW#Fortnite v9.30 [UDP][010025400AECE800][4194304].nsp",
+      "size": 6151614864
+    },
+    {
+      "url": "gdrive:1_ndyS5EK7YzRG4sFxMgW98HUO6IrQNRG#Fortnite v8.50 [UPD][010025400AECE800][3670016].nsp",
+      "size": 4720000000
+    },
+    {
+      "url": "gdrive:1kMZFIozxHMkpmDBHoXzaaf_A7VNFOo-N#Fortnite v7.10 [UPD][010025400AECE800][2424832].nsp",
+      "size": 7330000000
+    },
+    {
+      "url": "gdrive:1wpF6teSagv6441WHi_xdWGURRkUf2Xh7#Fortnite v5.40 [UPD][010025400AECE800][1179648].nsp",
+      "size": 4506157862
+    },
+    {
+      "url": "gdrive:1NykOzSDAgYgRNYamWiGw8u5c1sAVlmSK#Fortnite v5.30.2 [UPD][010025400AECE800][1114112].nsp",
+      "size": 2660000000
+    },
+    {
+      "url": "gdrive:1h--hhny8pGo8GiYng_59DpcAFSSb0Bp7#Fortnite v5.10 [UPD][010025400AECE800][589824].nsp",
+      "size": 2250000000
+    },
+    {
+      "url": "gdrive:1asfdwgv4hzgfAda89Bnp9lH3FzUBid2y#Fortnite v4.5 [UPD][010025400AECE800][327680].nsp",
+      "size": 2610000000
+    },
+    {
+      "url": "gdrive:1S-GAToITnHoqIumKF05nn13og2wbR33k#Fortnite v4.4.2 [UPD][010025400AECE800][262144].nsp",
+      "size": 2190000000
+    },
+    {
+      "url": "gdrive:1EACOp2rV2eEtPJWiUUP33QHCY8Az3GXY#Fortnite v4.4 [UPD][010025400AECE800][655360].nsp",
+      "size": 2410000000
+    }
+  ],
+  "directories": [""],
+  "success": "✔ Successfully Connected ✔\n\n⚠ Welcome to the Fortnite Switch Builds Archive on Tinfoil,maintained and made by: WhyCron#8977 and secret_pommes#1337⚠\nAt the moment there are some builds missing!\nIf you want to back a build up please visit: https://discord.gg/V7PRRQHG44\n\n\nCreator of the Tinfoil Fortnite builds archive: WhyIsCronTaken | Guy that is updating this atm: Secret1337"
 }

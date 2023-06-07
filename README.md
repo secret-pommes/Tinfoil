@@ -1,5 +1,5 @@
-<div align=center>
-# Fortnite Tinfoil Shop!
+<div align=center style="font-size: 20px;">
+Fortnite Tinfoil Shop!
 This tinfoil shop is made by: WhyCron and Secret1337 
 </div>
 <br >

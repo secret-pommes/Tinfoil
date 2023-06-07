@@ -1,4 +1,4 @@
-<div align=center style="font-size: 50px;">
+<div align=center style="font-size: 500px;">
 Fortnite Tinfoil Shop!
 This tinfoil shop is made by: WhyCron and Secret1337 
 </div>

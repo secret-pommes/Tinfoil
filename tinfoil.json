@@ -1,110 +1,127 @@
 {
   "files": [
     {
-      "url": "gdrive:15HpLxIcSPa2STSVX5bh7CSWpwY9tWyzA#Fortnite Base (v0) [010025400AECE000][0].nsp",
-      "size": 5792315
+      "url": "https://switchcdn.fnbuilds.services/Fortnite%20%5B010025400AECE000%5D%5Bv0%5D.nsp",
+      "size": 5792315,
+      "title": "Fortnite Switch Base (v0)"
     },
     {
-      "url": "gdrive:1HD8j0puPVWQncXyHCFNWJWa8StGo2heE#Fortnite v19.10 [UPD][010025400AECE800][v].nsp",
-      "size": 15032385536
+      "url": "https://switchcdn.fnbuilds.services/Fortnite%5B010025400AECE800%5D%5Bv262144%5D.nsp",
+      "size": 2190000000
     },
     {
-      "url": "gdrive:1uuzfbNrsPifsvPEww_pCAW2kMBc503lz#Fortnite v15.30 [UPD][010025400AECE800][v8388608].nsp",
-      "size": 12387381136
-    },
-    {
-      "url": "gdrive:1XKtuVCO08RAaGSlpBhBZLfaZUNVk0S7i#Fortnite v14.30 [010025400AECE800][v].nsp",
-      "size": 12884901888
-    },
-    {
-      "url": "gdrive:1TSxKTr-rY-dTBf5q4sHvAlRhoT2Ux3Y6#Fortnite v12.61 [010025400AECE800][v6881280].nsp",
-      "size": 10737418240
-    },
-    {
-      "url": "gdrive:1UBrmohxbQvwRF3BbSEjXFyKwxZ91FvSq#Fortnite v12.10 [010025400AECE800][v6225920].nsp",
-      "size": 9663676416
-    },
-    {
-      "url": "gdrive:1RpLVGKyp8Gbr1DLwoqwpMGhgudPyksJs#Fortnite[UPD][11.00.1].nsp",
-      "size": 7516192768
-    },
-    {
-      "url": "gdrive:1zcpZwdutl1v0dasrhtZVAGk1OciR_kiI#Fortnite v10.31 [US][010025400AECE800][v4784128].nsp",
-      "size": 7516192768
-    },
-    {
-      "url": "gdrive:1D78HJPls37VTusqGcWg0maUgxxMABBHY#Fortnite v10.30 [US][010025400AECE800][v4718592].nsp",
-      "size": 7044939776
-    },
-    {
-    "url": "gdrive:1IllKS0-C76MzCIKKIIwq7NYMhVX6s4Of#Fortnite [UPD][10.10].nsp",
-    "size": 6721623818
-    },
-    {
-      "url": "gdrive:19mSLTRtJiCT3fFGRONDYZAFrIVs5nGOW#Fortnite v9.30 [UPD][010025400AECE800][v4194304].nsp",
-      "size": 6151614864
-    },
-    {
-      "url": "gdrive:1dhLoo7P31CaNXvWXjEHMT6CNwmBqXOT-#Fortnite v9.10 [UPD][010025400AECE800][v3932160].nsp",
-      "size": 5368709120
-    },
-    {
-      "url": "gdrive:1org2YfrRHAhg5yk00qs955sf9ZPBws1D#Fortnite v8.51 [UPD][010025400AECE800][3735552].nsp",
-      "size": 5072691648
-    },
-    {
-      "url": "gdrive:1_ndyS5EK7YzRG4sFxMgW98HUO6IrQNRG#Fortnite v8.50 [UPD][010025400AECE800][3670016].nsp",
-      "size": 4720000000
-    },
-    {
-      "url": "gdrive:1X-Ymdet-jO1Qp2Lvz8aGxEpISB7yCobu#Fortnite v8.30.1 [010025400AECE800][v3473408].nsp",
-      "size": 4720000000
-    },
-    {
-      "url": "gdrive:1EId62DVm83jfh6QS1zgaEt0pIDa9co5Z#Fortnite v7.20.1 [UPD][010025400AECE800][2555904].nsp",
-      "size": 4383959718
-    },
-    {
-      "url": "gdrive:1kMZFIozxHMkpmDBHoXzaaf_A7VNFOo-N#Fortnite v7.10 [UPD][010025400AECE800][2424832].nsp",
-      "size": 7330000000
-    },
-    {
-      "url": "gdrive:1d5h3zCjb-r1gq3wB_6HRlooXv1Dmdq11#Fortnite v6.31 [UPD][010025400AECE800][2228224].nsp",
-      "size": 3455426560
-    },
-    {
-      "url": "gdrive:1d5h3zCjb-r1gq3wB_6HRlooXv1Dmdq11#Fortnite v6.30 [UPD][010025400AECE800][2162688].nsp",
-      "size": 3755660054
-    },
-    {
-      "url": "gdrive:1FP0drwKC62H1HmDTnlwOS_Tt-vqdgbIK#Fortnite v5.40.1 [UPD][010025400AECE800][1245184].nsp",
-      "size": 2875036542
-    },
-    {
-      "url": "gdrive:1wpF6teSagv6441WHi_xdWGURRkUf2Xh7#Fortnite v5.40 [UPD][010025400AECE800][1179648].nsp",
-      "size": 4506157862
-    },
-    {
-      "url": "gdrive:1NykOzSDAgYgRNYamWiGw8u5c1sAVlmSK#Fortnite v5.30.2 [UPD][010025400AECE800][1114112].nsp",
-      "size": 2660000000
-    },
-    {
-      "url": "gdrive:1EACOp2rV2eEtPJWiUUP33QHCY8Az3GXY#Fortnite v5.10.2 [UPD][010025400AECE800][655360].nsp",
-      "size": 2583725948
-    },
-    {
-      "url": "gdrive:1h--hhny8pGo8GiYng_59DpcAFSSb0Bp7#Fortnite v5.10.1 [UPD][010025400AECE800][589824].nsp",
-      "size": 2250000000
-    },
-    {
-      "url": "gdrive:1asfdwgv4hzgfAda89Bnp9lH3FzUBid2y#Fortnite v4.5 [UPD][010025400AECE800][327680].nsp",
+      "url": "https://switchcdn.fnbuilds.services/Fortnite%5B010025400AECE800%5D%5Bv327680%5D.nsp",
       "size": 2610000000
     },
     {
-      "url": "gdrive:1S-GAToITnHoqIumKF05nn13og2wbR33k#Fortnite v4.4.2 [UPD][010025400AECE800][262144].nsp",
-      "size": 2190000000
+      "url": "https://switchcdn.fnbuilds.services/Fortnite%20%5BUPD%5D%5B010025400aece800%5D%5Bv589824%5D.nsp",
+      "size": 2250000000
+    },
+    {
+      "url": "https://switchcdn.fnbuilds.services/Fortnite%5B010025400AECE800%5D%5Bv655360%5D.nsp",
+      "size": 2583725948
+    },
+    {
+      "url": "https://switchcdn.fnbuilds.services/Fortnite%20%5BUPD%5D%5B010025400aece800%5D%5Bv1114112%5D.nsp",
+      "size": 2660000000
+    },
+    {
+      "url": "https://switchcdn.fnbuilds.services/Fortnite%20%5BUPD%5D%5B010025400aece800%5D%5Bv1179648%5D.nsp",
+      "size": 4506157862
+    },
+    {
+      "url": "https://switchcdn.fnbuilds.services/Fortnite%20%5BUPD%5D%5B010025400aece800%5D%5Bv1245184%5D.nsp",
+      "size": 2875036542
+    },
+    {
+      "url": "https://switchcdn.fnbuilds.services/Fortnite%20%5BUPD%5D%5B010025400aece800%5D%5Bv2162688%5D.nsp",
+      "size": 3755660054
+    },
+    {
+      "url": "https://switchcdn.fnbuilds.services/Fortnite%20%5B010025400AECE800%5D%5Bv2228224%5D.nsp",
+      "size": 3455426560
+    },
+    {
+      "url": "https://switchcdn.fnbuilds.services/Fortnite%20%5B010025400AECE800%5D%5Bv2424832%5D.nsp",
+      "size": 7330000000
+    },
+    {
+      "url": "https://switchcdn.fnbuilds.services/Fortnite%20010025400AECE800v2555904.nsp",
+      "size": 4383959718
+    },
+    {
+      "url": "https://switchcdn.fnbuilds.services/Fortnite%20%5B010025400AECE800%5D%5Bv3473408%5D.nsp",
+      "size": 4720000000
+    },
+    {
+      "url": "https://switchcdn.fnbuilds.services/Fortnite%5B010025400AECE800%5D%5B%5D%5Bv3670016%5D.nsp",
+      "size": 4720000000
+    },
+    {
+      "url": "https://switchcdn.fnbuilds.services/Fortnite%20%5B010025400AECE800%5D%5Bv3735552%5D.nsp",
+      "size": 5072691648
+    },
+    {
+      "url": "https://switchcdn.fnbuilds.services/Fortnite%20%5B010025400AECE800%5D%5Bv3801088%5D.nsp",
+      "size": 5393244160
+    },
+    {
+      "url": "https://switchcdn.fnbuilds.services/Fortnite%20%5B010025400AECE800%5D%5Bv3932160%5D.nsp",
+      "size": 5368709120
+    },
+    {
+      "url": "https://switchcdn.fnbuilds.services/Fortnite%20%5B010025400AECE800%5D%5Bv3997696%5D.nsp",
+      "size": 5864360896
+    },
+    {
+      "url": "https://switchcdn.fnbuilds.services/Fortnite%20%5B010025400AECE800%5D%5Bv4194304%5D%5BUPD%5D.nsp",
+      "size": 6151614864
+    },
+    {
+      "url": "https://switchcdn.fnbuilds.services/Fortnite%20%5B010025400AECE800%5D%5Bv4259840%5D.nsp",
+      "size": 6366724032
+    },
+    {
+      "url": "https://switchcdn.fnbuilds.services/Fortnite%20%5B010025400AECE800%5D%5Bv4325376%5D.nsp",
+      "size": 6367862784
+    },
+    {
+      "url": "https://FILE_IS_CURRENTLY_NOT_AVAILABLE.COM#Fortnite v10.10 [UPD][010025400AECE800][unknown-CL].nsp",
+      "size": 6721623818
+    },
+    {
+      "url": "https://switchcdn.fnbuilds.services/Fortnite%5B010025400AECE800%5D%5BUS%5D%5Bv4718592%5D.nsp",
+      "size": 7044939776
+    },
+    {
+      "url": "https://FILE_IS_CURRENTLY_NOT_AVAILABLE.COM#Fortnite v10.31 [US][010025400AECE800][4784128].nsp",
+      "size": 7516192768
+    },
+    {
+      "url": "https://FILE_IS_CURRENTLY_NOT_AVAILABLE.COM#Fortnite v11.00.1 [UPD][010025400AECE800][unknown-CL].nsp",
+      "size": 7516192768
+    },
+    {
+      "url": "https://switchcdn.fnbuilds.services/Fortnite%20%5B010025400AECE800%5D%5Bv6225920%5D.nsp#Fortnite v12.10 [UPD][010025400AECE800][6225920].nsp",
+      "size": 9663676416
+    },
+    {
+      "url": "https://switchcdn.fnbuilds.services/Fortnite%20v6881280%20(010025400AECE800)%20(UPD).nsp#Fortnite v12.61 [UPD][010025400AECE800][6881280].nsp",
+      "size": 10737418240
+    },
+    {
+      "url": "https://switchcdn.fnbuilds.services/Fortnite%20%5B010025400AECE800%5D%5Bv7733248%5D.nsp",
+      "size": 12884901888
+    },
+    {
+      "url": "https://switchcdn.fnbuilds.services/Fortnite%20v8388608.nsp",
+      "size": 12387381136
+    },
+    {
+      "url": "https://switchcdn.fnbuilds.services/Fortnite%20%5B010025400AECE800%5D%5Bv11010048%5D%5BUPD%5D.nsp",
+      "size": 15032385536
     }
   ],
   "directories": [""],
-  "success": "Successfully Connected! \n\nWelcome to the Fortnite Switch Builds Archive on Tinfoil, maintained and made by: WhyCron#8977 and secret_pommes#1337\n\nAt the moment, there are some builds missing!\nIf you want to back a build up please visit: https://discord.gg/V7PRRQHG44\n\n\nBuilds hosted by IzTendo on their Google Drive"
+  "success": "Successfully Connected! \n\nWelcome to the Fortnite Nintendo Switch archive on Tinfoil, created and maintained by: WhyCron#8977 and secret_pommes#1337\n\nWe are currently missing a few builds!\nIf you'd like to contribute a missing build, please get contact with us at https://discord.gg/V7PRRQHG44\n\n\nBuilds hosted and maintained by lintu on her Google Drive!"
 }
